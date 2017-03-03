@@ -1,5 +1,5 @@
 public class Student {
-    private String fullName;
+    String fullName;
     private String bDate;
     private int[] marks;
 
